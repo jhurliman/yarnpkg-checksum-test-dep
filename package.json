@@ -1,5 +1,6 @@
 {
   "name": "yarnpkg-checksum-test-dep",
+  "version": "0.0.1",
   "description": "Bug reproduction",
   "license": "UNLICENSED",
   "repository": {
