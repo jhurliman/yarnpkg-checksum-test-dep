@@ -1,4 +1,7 @@
 {
   "name": "yarnpkg-checksum-test-dep",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
 }
