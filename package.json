@@ -1,5 +1,11 @@
 {
   "name": "yarnpkg-checksum-test-dep",
+  "description": "Bug reproduction",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhurliman/yarnpkg-checksum-test-dep.git"
+  },
   "main": "index.js",
   "dependencies": {
     "left-pad": "^1.3.0"
